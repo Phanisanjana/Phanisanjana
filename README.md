@@ -23,7 +23,7 @@ I'm a passionate and results-driven data analyst and data engineer with 2+ years
 ## 📚 Education
 
 - Information Science and Technology, Missouri University Of Scinece and Technology _ 2022-2023
-- Microsoft Certified: Azure Fundamentals, https://learn.microsoft.com/en-gb/users/phanisanjanatirumalasetty-5435/credentials/3a6000602553acdb- 2023
+- Microsoft Certified: Azure Fundamentals, https://learn.microsoft.com/en-gb/users/phanisanjanatirumalasetty-5435/credentials/3a6000602553acdb - 2023
 
 ## 📫 Contact Me
 
