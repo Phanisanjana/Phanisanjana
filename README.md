@@ -1,6 +1,6 @@
 # Hello, I'm Phani Sanjana Tirumalasetty 👋
 
-I'm a passionate and results-driven data analyst and data engineer with 2+ years of experience in turning data into actionable insights and building robust data pipelines. I thrive in the world of data, where I combine my analytical skills with engineering expertise to solve complex problems and drive data-informed decision-making.
+I'm a passionate and results-driven data analyst and data engineer with 3+ years of experience in turning data into actionable insights and building robust data pipelines. I thrive in the world of data, where I combine my analytical skills with engineering expertise to solve complex problems and drive data-informed decision-making.
 
 ## 📊 Data Analysis Skills
 
