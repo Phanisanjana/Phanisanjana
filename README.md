@@ -18,7 +18,8 @@ I'm a passionate and results-driven data analyst and data engineer with 3+ years
 
 
 ## 📈 Projects
-- Working on Project " Weather Prediction Using Python" 
+-  Weather Prediction Using Python.
+-  Mini Project using PYSPARK in DATABRICKS
 
 ## 📚 Education
 
