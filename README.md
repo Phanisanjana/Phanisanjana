@@ -1,6 +1,6 @@
 # Hello, I'm Phani Sanjana Tirumalasetty 👋
 
-I'm a passionate and results-driven Azure data engineer with 2+ years of experience in turning data into actionable insights and building robust data pipelines. I thrive in the world of data, where I combine my analytical skills with engineering expertise to solve complex problems and drive data-informed decision-making.
+I'm a passionate and results-driven Azure data engineer with 6+ years of experience in turning data into actionable insights and building robust data pipelines. I thrive in the world of data, where I combine my analytical skills with engineering expertise to solve complex problems and drive data-informed decision-making.
 
 ## 📊 Data Analysis Skills
 
@@ -29,7 +29,7 @@ I'm a passionate and results-driven Azure data engineer with 2+ years of experie
 
 ## 📫 Contact Me
 
-Feel free to reach out to me at tphanisanjana@gmail.com or connect with me on www.linkedin.com/in/phanisanjana.
+Feel free to reach out to me at tphanisanjana@gmail.com or connect with me on www.linkedin.com/in/phani-tirumalasetty.
 
 I'm excited about the potential to contribute to innovative data projects and would love to discuss how I can bring value to your team. Let's connect and explore opportunities together!
 
